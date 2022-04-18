@@ -9,7 +9,7 @@ Pada tugas ini terdapat source code Python yang telah diperbaiki fiturnya. Berik
 
 1. Tampilan awal
    >![](assets_readme/awal.png) 
-2. Tampilan ketika klik tombol detail, terdapat tombol 'Close' untuk menutup window, menampilkan data pemilik, dan menampilkan data dokumen dari hunian.
+2. Tampilan ketika klik tombol detail. Pada window detail ditampilkan data pemilik, data dokumen dari hunian, dan terdapat tombol 'Close' untuk menutup window. Berikut hasil tampilan window detail untuk bermacam hunian.
    - Detail Indekos (tambahan menampilkan data penghuni)<br>
      ![](assets_readme/indekos.png)
    - Detail Apartemen (tambahan menampilkan data jumlah kamar) <br>
